@@ -1,1 +1,1 @@
-worker: python backapi.py
+worker: python backapi.py $PORT
